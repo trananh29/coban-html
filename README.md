@@ -11,7 +11,7 @@
 <br>
 <a href="Read ">Read more about the history of HTML</a>
 <br>
-<image src="https://james.codegym.vn/pluginfile.php/64838/mod_assign/intro/Screen%20Shot%202017-08-21%20at%2022.29.39.png" with="90" height=""></image>
+<image src="https://james.codegym.vn/pluginfile.php/64838/mod_assign/intro/Screen%20Shot%202017-08-21%20at%2022.29.39.png" with="90" height="90"></image>
 <br>
 <a href=" Image" >Image course CERN</a>
 
